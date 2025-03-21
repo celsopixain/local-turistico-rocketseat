@@ -25,7 +25,7 @@ img {
   /* display: inline-block; */
 }
 
-.divider {
+.line {
   /* Adicionar na doc */
   width: 100%;
   height: 1px;
@@ -103,7 +103,7 @@ ul li::marker {
   color: #333333;
 }
 
-.divider + p {
+.line + p {
   text-align: center;
 }
 
@@ -120,18 +120,18 @@ footer img {
   height: 16px;
 }
 
-.accent-blue {
+.item-blue {
   color: #0c51a7;
 }
 
-.accent-purple {
+.item-purple {
   color: #591b98;
 }
 
-.accent-pink {
+.item-pink {
   color: #e5245e;
 }
 
-.accent-orange {
+.item-orange {
   color: #e95e10;
 }
